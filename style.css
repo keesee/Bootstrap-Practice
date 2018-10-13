@@ -1,0 +1,32 @@
+body {
+  padding-top: 50px
+}
+
+#posts-section {
+  background-color: #cccccc;
+  padding-top: 25px;
+  padding-bottom: 80px;
+}
+
+#todos-section {
+  background-color: #efefef;
+  padding: 80px;
+}
+
+#images-section {
+  background-color: pink;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+
+.completed {
+  background-color: red;
+  color: white;
+  text-decoration: line-through;
+}
+
+.not-completed {
+  background-color: #222;
+  color: white
+}
